@@ -1,0 +1,77 @@
+.menu {
+    background-color: #d9d9d9;
+    padding: 1rem;
+}
+
+.tela1 {
+    display: grid;
+    height: 600px;
+    grid-template-columns: 1fr 1fr;
+    place-items: center;
+}
+
+.logo {
+    font-size: 5rem;
+}
+
+.bloco1 h3{
+    margin-top:90px ;
+    font-weight:lighter;
+}
+
+.login {
+    background-color: #d9d9d9;
+    padding: 80px 50px;
+    border-radius: 50px;
+}
+
+.login h1, h3 {
+    text-align: center;
+}
+
+.login h2 {
+   font-weight: lighter;
+   font-size: 1rem;
+}
+
+.login p {
+    font-size: 0.7rem;
+ }
+
+.detalhe1 {
+    width: 160px;
+    height: 15px;
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.login h3 {
+    margin-top: 30px;
+    background-color: white;
+    display: block;
+    padding: 10px ;
+ 
+}
+
+.tela2 h2 {
+    margin: 30px;
+
+}
+.detalhe2 {
+    background-color: black;
+    height: 2px;
+}
+
+.notas {
+    margin: 3rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 40px;
+    height: 300px;
+}
+
+.rodape {
+    background-color: #d9d9d9;
+    padding: 2rem;
+    text-align: center;
+}
